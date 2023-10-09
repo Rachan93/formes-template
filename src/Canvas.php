@@ -1,5 +1,5 @@
 <?php
-/*
+
 namespace Opmvpc\Formes;
 
 class Canvas extends Forme
@@ -42,4 +42,3 @@ class Canvas extends Forme
         $this->formes[] = $forme;
     }
 }
-*/

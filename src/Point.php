@@ -14,7 +14,7 @@ class Point {
         return $this->x;
     }
 
-    public function getY() {
+    public function getY() :float {
         return $this->y;
     }
 }
